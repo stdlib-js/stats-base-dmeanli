@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`1a7bfb6`](https://github.com/stdlib-js/stdlib/commit/1a7bfb650c61d686bde53fda82476edb5c29cafd) - **refactor:** update `stats/base/dmeanli` native addon from C++ to C [(#4097)](https://github.com/stdlib-js/stdlib/pull/4097) _(by Aayush Khanna)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Philipp Burckhardt
 
 </section>
